@@ -1,6 +1,6 @@
 # Bedroom-Build
 
-3D game - added room with a bedroom
+3D game - added a room with a master bedroom.
 
 Walk in the building and take a look at the new bedroom.
 
