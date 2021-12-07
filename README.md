@@ -12,6 +12,10 @@ Use 'a','s','d','w' keys to walk.
 Walk though the hallway into the master bedroom.
 <br/>
 
+## Components
+
+Scene Path: **[Assets/Scenes/MasterBedroom.unity](Assets/Scenes/MasterBedroom.unity)**
+
 ## External Links
 https://littlegamers2021.itch.io/bedroombuild
 <br/>
